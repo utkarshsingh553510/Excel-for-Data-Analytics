@@ -16,20 +16,21 @@ Whether you're starting with Excel or revising important concepts before intervi
 
 # 📚 Table of Contents
 
-| No. | Topic                                                |
-| --- | ---------------------------------------------------- |
-| 01  | [Pivot Table](01_Pivot_Table.md)                     |
-| 02  | [VLOOKUP Function](02_VLOOKUP_Function.md)           |
-| 03  | [HLOOKUP Function](03_HLOOKUP_Function.md)           |
-| 04  | [XLOOKUP Function](04_XLOOKUP_Function.md)           |
-| 05  | [Statistical Functions](05_Statistical_Functions.md) |
-| 06  | [Logical Functions](06_Logical_Functions.md)         |
-| 07  | [Text Functions](07_Text_Functions.md)               |
-| 08  | [Date Functions](08_Date_Functions.md)               |
-| 09  | [INDEX Function](09_INDEX_Function.md)               |
-| 10  | [MATCH Function](10_MATCH_Function.md)               |
-| 11  | [INDEX + MATCH](11_INDEX_MATCH_Function.md)          |
-| 12  | [Power Query](12_Power_Query.md)                     |
+| No. | Topic | Link |
+|-----|--------|------|
+| 01 | Pivot Table | [Open](01_Pivot_Table.md) |
+| 02 | VLOOKUP Function | [Open](02_VLOOKUP_Function.md) |
+| 03 | HLOOKUP Function | [Open](03_HLOOKUP_Function.md) |
+| 04 | XLOOKUP Function | [Open](04_XLOOKUP_Function.md) |
+| 05 | Statistical Functions | [Open](05_Statistical_Functions.md) |
+| 06 | Logical Functions | [Open](06_Logical_Functions.md) |
+| 07 | Text Functions | [Open](07_Text_Functions.md) |
+| 08 | Date Functions | [Open](08_Date_Functions.md) |
+| 09 | INDEX Function | [Open](09_INDEX_Function.md) |
+| 10 | MATCH Function | [Open](10_MATCH_Function.md) |
+| 11 | INDEX + MATCH | [Open](11_INDEX_MATCH_Function.md) |
+| 12 | Power Query | [Open](12_Power_Query.md) |
+
 
 ---
 
