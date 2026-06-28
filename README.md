@@ -118,7 +118,8 @@ Excel-for-Data-Analytics
 [www.linkedin.com/in/utkarsh-singh-ds](http://www.linkedin.com/in/utkarsh-singh-ds)
 
 **GitHub**
-github.com/utkarshsingh553510
+- 💻 GitHub: https://github.com/utkarshsingh553510
+
 
 ---
 
