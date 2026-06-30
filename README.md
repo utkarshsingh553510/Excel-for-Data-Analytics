@@ -1,5 +1,11 @@
 # 📊 Excel for Data Analytics
 
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-6A5ACD?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge)
+![Self-Written Notes](https://img.shields.io/badge/Self--Written%20Notes-FF9800?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-2EA44F?style=for-the-badge)
+
 > A comprehensive collection of Microsoft Excel notes, formulas, practice datasets, and Power Query concepts designed for aspiring **Data Analysts**, **Business Analysts**, and **Data Science** enthusiasts.
 
 ---
